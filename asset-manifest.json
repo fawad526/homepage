@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.2a2fea97.css",
+    "main.js": "/homepage/static/js/main.059248ba.js",
+    "static/media/logo.png": "/homepage/static/media/logo.aca2bfb20e514534c91e.png",
+    "static/media/Frontend.jpg": "/homepage/static/media/Frontend.f39fcf2aa3d733e66fdb.jpg",
+    "static/media/Backend.png": "/homepage/static/media/Backend.252c00538501efc760de.png",
+    "static/media/service41.jpg": "/homepage/static/media/service41.5398cc6f9f8c7103f3b3.jpg",
+    "static/media/Mongodb.jpg": "/homepage/static/media/Mongodb.219184306cc11704a0b6.jpg",
+    "static/media/slick.svg": "/homepage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/homepage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/homepage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/homepage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/homepage/index.html",
+    "main.2a2fea97.css.map": "/homepage/static/css/main.2a2fea97.css.map",
+    "main.059248ba.js.map": "/homepage/static/js/main.059248ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2fea97.css",
+    "static/js/main.059248ba.js"
+  ]
+}
